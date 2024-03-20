@@ -3,7 +3,7 @@ from typing import Dict, List
 from task_list.console import Console
 from task_list.task import Task
 
-
+# objet valeur : il faut avoir la meme console ,la meme liste des task et le meme last_id
 class TaskList:
     QUIT = "quit"
 

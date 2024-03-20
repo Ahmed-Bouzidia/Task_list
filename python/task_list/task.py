@@ -1,4 +1,5 @@
 
+# Objet valeur : identifiant est id et description 
 
 class Task:
     def __init__(self, id_: int, description: str, done: bool) -> None:
